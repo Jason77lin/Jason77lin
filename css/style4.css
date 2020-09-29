@@ -5,9 +5,9 @@
 }
 body {
   background-color:black;
-  background-image:url("https://ih1.redbubble.net/image.367972049.0181/flat,550x550,075,f.u3.jpg");
+  background-image:url("https://wallpaperaccess.com/full/862221.png");
   background-repeat: no-repeat;
-  background-size: 100vw 200vh;
+  background-size: 100vw 300vh;
   overflow-x: hidden;
 }
 
@@ -108,7 +108,27 @@ h5{
   height: 10vw;
   position:absolute;
   top:84vw;
-  left:28vw;
+  left:120px;
+}
+
+.boxed12 {
+  border: 2px solid silver;
+  background-color: black;
+  width: 40vw;
+  height: 10vw;
+  position:absolute;
+  top:84vw;
+  left:52vw;
+}
+
+.boxed11 {
+  border: 2px solid silver;
+  background-color: black;
+  width: 40vw;
+  height: 10vw;
+  position:absolute;
+  top:119vw;
+  left:120px;
 }
 
 .round {
@@ -127,7 +147,7 @@ h5{
   height: 23vw;
   position: absolute;
   top: 60vw;
-  left:28vw;
+  left:7vw;
   border:1px solid white;
 }
 
@@ -147,6 +167,24 @@ h5{
   position: absolute;
   top: 15vw;
   left:52vw;
+  border:1px solid white;
+}
+
+#resize4 {
+  width:40vw;
+  height: 23vw;
+  position: absolute;
+  top: 60vw;
+  left:52vw;
+  border:1px solid white;
+}
+
+#resize5 {
+  width:40vw;
+  height: 23vw;
+  position: absolute;
+  top: 95vw;
+  left:7vw;
   border:1px solid white;
 }
 

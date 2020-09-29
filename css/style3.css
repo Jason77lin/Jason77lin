@@ -5,7 +5,7 @@
 }
 body {
   background-color:black;
-  background-image:url("https://www.xmple.com/wallpaper/linear-red-black-gradient-1920x1080-c2-bb382e-000000-a-315-f-14.svg");
+  background-image:url("https://wallpaperaccess.com/full/862221.png");
   background-repeat: no-repeat;
   background-size: 100vw 350vh;
   height:250vh;
@@ -144,7 +144,7 @@ h5{
   width: 30vw;
   height:auto;
   position: absolute;
-  top: 115vw;
+  top: 97vw;
   left:35%;
   transform: rotate(90deg);
 }
@@ -152,11 +152,11 @@ h5{
 #resize40 {
   border: 2px solid silver;
   background-color: black;
-  width: 50vw;
+  width: 40vw;
   height:12vw;
   position:absolute;
-  top:153.5vw;
-  left:25vw;
+  top:132.5vw;
+  left:29.8vw;
 }
 
 #resize5 {
@@ -164,7 +164,7 @@ h5{
   width: 20vw;
   height:auto;
   position: absolute;
-  top: 68vw;
+  top: 60vw;
   left:55.5%;
   transform: rotate(0deg);
 }
@@ -175,7 +175,7 @@ h5{
   width: 23vw;
   height:12vw;
   position:absolute;
-  top:95vw;
+  top:87vw;
   left:53.5vw;
 }
 
@@ -185,7 +185,7 @@ h5{
   width: 20vw;
   height:auto;
   position: absolute;
-  top: 68vw;
+  top: 60vw;
   left:25.5%;
   transform: rotate(0deg);
 }
@@ -194,9 +194,9 @@ h5{
   border: 2px solid silver;
   background-color: black;
   width: 23vw;
-  height:15vw;
+  height:12vw;
   position:absolute;
-  top:95vw;
+  top:87vw;
   left:23.5vw;
 }
 
